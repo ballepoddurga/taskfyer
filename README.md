@@ -2,11 +2,11 @@
  A task management application built using the MERN (MongoDB, Express, React, Node) stack to help users manage tasks efficiently.
 
 **Features**
- Add task: Quickly add new tasks with relevant details.
- Mark as Complete/Incomplete: Toggle task status to track progress.
- Mark as Important: Highlight tasks that need special attention.
- Edit Task: Modify task details as needed.
- Delete Task: Remove tasks that are no longer needed.
+ 1. Add task: Quickly add new tasks with relevant details.
+ 2. Mark as Complete/Incomplete: Toggle task status to track progress.
+ 3. Mark as Important: Highlight tasks that need special attention.
+ 4. Edit Task: Modify task details as needed.
+ 5. Delete Task: Remove tasks that are no longer needed.
 
 **Getting Started**
 Follow these steps to run the project locally:
